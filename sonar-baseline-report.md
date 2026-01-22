@@ -1,40 +1,59 @@
 ﻿# SonarQube Baseline Report
-**Timestamp:** 2026-01-02T17:06:37+05:30
-**Project Key:** DigitalInnovation_foods-orca-outbound-service
-**Scope:** branch=main
+**Generated:** 2025-12-16 23:29:49
 
 ## Summary
-- **Total OPEN issues:** 0
-- **Bugs:** 0
+- **Total Issues:** 270
+- **Bugs:** 3
 - **Vulnerabilities:** 0
-- **Code Smells:** 0
-- **Security Hotspots (total):** 9
-- **Coverage (%):** 0.0
-- **Duplication (%):** 29.4 (duplicated lines: 9307)
-- **Quality Gate:** OK
+- **Code Smells:** 267
+- **Coverage:** 0.0%
+- **Duplication:** 29.4%
+- **Quality Gate:** ERROR
 
-## Issues By Severity
-| Severity | Count |
-|---|---:|
-| BLOCKER | 0 |
-| CRITICAL | 0 |
-| MAJOR | 0 |
-| MINOR | 0 |
-| INFO | 0 |
+## Issues by Severity
+- BLOCKER: 0
+- CRITICAL: 43
+- MAJOR: 190
+- MINOR: 33
+- INFO: 4
 
-## Issues By Rule
-| Rule | Count |
-|---|---:|
-
-## Analysis Caveats
-- No JaCoCo XML report was found at the configured path; coverage may be reported as 0%.
-- If Sonar reports "sonar.java.binaries are empty" for the root module, analysis accuracy/caching may be reduced.
-
-## Evidence Files
-- sonar-fix-details/open-issues-facets-baseline.json
-- sonar-fix-details/measures-baseline.json
-- sonar-fix-details/quality-gate-baseline.json
-- sonar-fix-details/branches-list.json
-- sonar-fix-details/report-task.txt
-- sonar-fix-details/scope.json
-- sonar-fix-details/hotspots-baseline.json
+## Issues by Rule
+- java:S6485: 106
+- java:S2479: 36
+- java:S1117: 22
+- java:S125: 17
+- java:S1854: 17
+- java:S1481: 14
+- java:S1068: 5
+- java:S117: 5
+- java:S1604: 4
+- java:S2142: 3
+- java:S1135: 3
+- java:S1141: 3
+- java:S1118: 3
+- java:S1444: 2
+- java:S1871: 2
+- java:S6126: 2
+- java:S3776: 2
+- java:S1104: 2
+- java:S1165: 2
+- java:S4042: 1
+- java:S1948: 1
+- java:S3008: 1
+- java:S1220: 1
+- java:S5411: 1
+- java:S1192: 1
+- java:S6539: 1
+- java:S2696: 1
+- java:S3011: 1
+- java:S6204: 1
+- java:S1602: 1
+- java:S106: 1
+- java:S1488: 1
+- java:S1155: 1
+- java:S131: 1
+- java:S116: 1
+- java:S107: 1
+- java:S1116: 1
+- java:S1186: 1
+- java:S1144: 1
