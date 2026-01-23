@@ -6,3 +6,13 @@ Instead of sub-page heading give below ones
  
 instead of Human Capital & Leverage > Engineering Capacity
  
+
+
+Baseline Productivity Factor
+Current Productivity Factor 
+Target Productivity Factor 
+ 
+we need to add 2 placeholders for 2 logos
+ 
+place it as Logo 1 and Logo 2
+ 
