@@ -1,0 +1,8 @@
+Main heading : change from Product Estimate to Agile Estimator Tool
+ 
+Instead of sub-page heading give below ones
+1. Team Composition & Maturity > Team Productivity
+2. Discovery Workbench > Story Estimation
+ 
+instead of Human Capital & Leverage > Engineering Capacity
+ 
