@@ -15,4 +15,67 @@ Target Productivity Factor
 we need to add 2 placeholders for 2 logos
  
 place it as Logo 1 and Logo 2
+
+==========================================
+First a weightage is attached to each of the parameters
+Weightage
  
+
+Parameter	Weight (%)
+Code Quality	10%
+Tech Debt	5%
+Test Coverage	20%
+CI/CD Maturity	5%
+Security Posture	5%
+Platform Reuse	5%
+AI Maturity	50%
+Total	100%
+
+
+=========================
+
+For tech debt alone- we need to be careful as Effective Tech Debt score = 100 – Tech Debt %
+ 
+Sample values for Productivity calculation
+ 
+Parameter	Values
+Code Quality	50%
+Tech Debt	50%
+Test Coverage	45%
+CI/CD Maturity	50%
+Security Posture	60%
+Platform Reuse	40%
+AI Maturity	10%
+
+Productivity = Code Quality % * 0.10
+               + (100 – Tech debt%) * 0.05
+               + Test Coverage % *  0.20            
+               + CICD % *0.05
+               + Security Posture % * 0.05
+               + PlatformReuse % * 0.05
+               + AI Maturity % *0.5
+= 0.5*0.10 + 0.5*0.05 + 0.45*0.20 + 0.5*0.05 + 0.6*0.05 + 0.4*0.05 + 0.01*0.5
+= 0.05 + 0.025 + 0.09 + 0.025 + 0.03 + 0.02 + 0.005
+= 0.3
+Productivity factor : 0.3 
+
+
+productivity scale is:
+
+Score	Meaning
+0.00 – 0.20	Very Low Productivity
+0.21 – 0.40	Low Productivity
+0.41 – 0.60	Moderate Productivity
+0.61 – 0.80	High Productivity
+0.81 – 1.00	Very High Productivity
+
+
+if Productivity factor is 1 - team is 100% productive
+ 
+value ranges from 0 to 1
+ 
+Let me know if above looks fine Jayachandran Krishnan
+ 
+lets use the word tech factor and not productivity factor ... and dont grade very low, low etc.. just keep number
+ 
+
