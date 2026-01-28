@@ -15,3 +15,12 @@ B: 60%T: 60% 60% to B: 60%T: 60% C: 60%
 AI Adoption ALIGMENT 
 Technology Factor Analysis  to Calculated Team Technology Factor 
 remove Optimized Velocity
+
+
+
+Story Id	Story Title	Story Description	Acceptance criteria
+	No of UI screens
+	No of API changes involved
+	No of Database or entities
+	No of Integration components
+	Story Points	Baseline Effort	Actual Effort	Target Effort
